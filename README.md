@@ -1,1 +1,5 @@
-# graph-theory-proj
+# Graph Theory Project
+
+***
+
+This is my graph theory project 
